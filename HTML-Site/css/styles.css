@@ -1,0 +1,33 @@
+/*************************** Tag ***************************/
+body {
+     background: #E1EBE9;
+}
+
+hr {
+    border-color: #c9d1d3;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1, h3 {
+    color: #4AB199;
+}
+
+img:hover {
+    background-color: gold;
+}
+/*************************** Class ***************************/
+.avatar {
+    background-color: #c9d1d3;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/*************************** IDs ***************************/
+#profile {
+    color: blue;
+}
